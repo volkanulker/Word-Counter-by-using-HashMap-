@@ -1,2 +1,2 @@
 # WordCounter-withHashMap-
-a data structure assignment about hash my own hash map implementation
+I create my own hash map for counting words.
